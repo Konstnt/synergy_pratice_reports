@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/cmake_install.cmake",
+		"C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/cmake_install.cmake",
+		"C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/googlemock/cmake_install.cmake",
+		"C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

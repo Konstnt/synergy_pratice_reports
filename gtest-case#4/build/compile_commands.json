@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/runner.dir/includes_CXX.rsp -g -std=gnu++1z -pthread -o CMakeFiles\\runner.dir\\tests\\all_tests.cpp.obj -c \"C:\\MyProject\\Synergy\\synergy_pratice_reports\\gtest-case#4\\tests\\all_tests.cpp\"",
+  "file": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/tests/all_tests.cpp",
+  "output": "CMakeFiles/runner.dir/tests/all_tests.cpp.obj"
+},
+{
+  "directory": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wshadow -Wundef -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c \"C:\\MyProject\\Synergy\\synergy_pratice_reports\\gtest-case#4\\thirdparty\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/thirdparty/googletest/googlemock/src/gmock-all.cc",
+  "output": "thirdparty/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/googlemock",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wshadow -Wundef -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c \"C:\\MyProject\\Synergy\\synergy_pratice_reports\\gtest-case#4\\thirdparty\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/thirdparty/googletest/googlemock/src/gmock_main.cc",
+  "output": "thirdparty/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wshadow -Wundef -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c \"C:\\MyProject\\Synergy\\synergy_pratice_reports\\gtest-case#4\\thirdparty\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/thirdparty/googletest/googletest/src/gtest-all.cc",
+  "output": "thirdparty/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/build/thirdparty/googletest/googletest",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++1z -Wall -Wshadow -Wundef -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c \"C:\\MyProject\\Synergy\\synergy_pratice_reports\\gtest-case#4\\thirdparty\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:/MyProject/Synergy/synergy_pratice_reports/gtest-case#4/thirdparty/googletest/googletest/src/gtest_main.cc",
+  "output": "thirdparty/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

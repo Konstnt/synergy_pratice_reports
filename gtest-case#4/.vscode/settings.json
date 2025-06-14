@@ -1,0 +1,5 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.configureArgs": [],
+    "cmake.buildDirectory": "${workspaceFolder}/build"
+}

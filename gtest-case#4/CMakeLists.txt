@@ -14,5 +14,8 @@ add_subdirectory(thirdparty/googletest)
 # Создаём исполняемый файл для тестов
 add_executable(runner tests/all_tests.cpp)
 
-# Линкуем библиотеку GoogleTest
-target_link_libraries(runner PRIVATE GTest::GTest GTest::Main)
+# Линкуем библиотеки GoogleTest
+target_link_libraries(runner PRIVATE GTest::gtest_main)
+
+# Если нужно включить флаги для работы с потоками
+target_compile_options(runner PRIVATE -pthread)
