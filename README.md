@@ -7,3 +7,8 @@
 Вывод runner.exe находится в файле [runner_OUTPUT.TXT](https://github.com/Konstnt/synergy_pratice_reports/blob/main/gtest-case%234/build/runner_OUTPUT.TXT)
 
 #
+#### Кейс-задание 5
+Генератор веб-страницы Компании (выбор шаблона и шрифта) [перейти](https://github.com/Konstnt/synergy_pratice_reports/tree/main/gtest-case%234)
+
+
+#
