@@ -8,7 +8,7 @@
 
 #
 #### Кейс-задание 5
-Генератор веб-страницы Компании (выбор шаблона и шрифта) [перейти](https://github.com/Konstnt/synergy_pratice_reports/tree/main/gtest-case%234)
+Генератор веб-страницы Компании (выбор шаблона и шрифта) [перейти](https://github.com/Konstnt/synergy_pratice_reports/tree/main/org-html-gen-case%235)
 
 
 #
