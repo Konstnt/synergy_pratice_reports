@@ -1,0 +1,50 @@
+/* dark-mode.css */
+
+/* Общий фон и текст */
+body {
+    background-color: #1e1e1e;
+    color: #f1f1f1;
+}
+
+/* Фон карточки с информацией */
+main.page {
+    background-color: #2d2d2d;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 40px auto;
+    max-width: 700px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+    color: #f1f1f1;
+}
+
+header.company-header h1 {
+    color: #e5e5e5;
+}
+
+/* Ссылки */
+a {
+    color: #61dafb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #21daff;
+}
+
+/* Выделение (strong) */
+strong {
+    color: #bbbbbb;
+}
+
+/* Параграфы */
+p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 14px;
+}
+
+/* Тени и переходы (необязательно, но красиво) */
+main.page {
+    transition: background-color 0.3s ease, color 0.3s ease;
+}

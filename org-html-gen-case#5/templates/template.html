@@ -2,13 +2,17 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Организация</title>
+    <title>{{short_name}}</title>
     <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/themes/{{theme}}.css">
     <link rel="stylesheet" href="../css/fonts/{{font}}.css">
 </head>
 <body>
-    <div class="container">
+    <header class="company-header">
         <h1>{{title}}</h1>
+    </header>
+
+    <main class="page">
         <p><strong>Полное название:</strong> {{full_name}}</p>
         <p><strong>Сокращённое название:</strong> {{short_name}}</p>
         <p><strong>ОРГН:</strong> {{ogrn}}</p>
@@ -17,6 +21,6 @@
         <p><strong>Телефон:</strong> {{phone}}</p>
         <p><strong>E-mail:</strong> <a href="mailto:{{email}}">{{email}}</a></p>
         <p><strong>Сайт:</strong> <a href="{{website}}" target="_blank">{{website}}</a></p>
-    </div>
+    </main>
 </body>
 </html>

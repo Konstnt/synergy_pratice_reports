@@ -1,0 +1,25 @@
+/* mobile-view.css */
+
+body {
+    padding: 20px 10px; /* Уменьшили отступы сверху и снизу */
+}
+
+main.page {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 15px; /* Компактные внутренние отступы */
+    background-color: #fff;
+    border-radius: 0; /* Убрали закругления для мобильного вида */
+    box-shadow: none; /* Убрали тень */
+}
+
+p {
+    font-size: 1rem; /* Чуть увеличим размер текста для мобильного чтения */
+    margin-bottom: 10px;
+}
+
+header.company-header h1 {
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}

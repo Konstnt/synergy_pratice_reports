@@ -1,26 +1,60 @@
+/* base.css */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+html {
+    font-size: 16px;
+}
+
 body {
     font-family: var(--main-font), sans-serif;
     background-color: #f9f9f9;
     color: #333;
-    padding: 40px;
+    line-height: 1.6;
+    padding: 40px 20px;
 }
 
-.container {
-    max-width: 600px;
-    margin: auto;
-    background: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-h1 {
+/* === Header === */
+header.company-header {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+header.company-header h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #222;
+    margin: 0;
+}
+
+/* === Основной контент === */
+main.page {
+    /*max-width: 700px;*/
+    margin: 0 auto;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    margin-bottom: 12px;
+    font-size: 1rem;
+}
+
+strong {
+    color: #555;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
